@@ -11,6 +11,7 @@ export const segment14 = `400 ${size(14)} / 1.33 ${segmentFontFamily}`;
 export const segment18 = `400 ${size(18)} / 1.33 ${segmentFontFamily}`;
 export const segment24 = `400 ${size(24)} / 1.33 ${segmentFontFamily}`;
 export const segment32 = `400 ${size(32)} / 1.33 ${segmentFontFamily}`;
+export const segment36 = `400 ${size(36)} / 1.33 ${segmentFontFamily}`;
 
 export const quincyBold18 = `700 ${size(18)} / 1 ${quincyRegularFontFamily}`;
 

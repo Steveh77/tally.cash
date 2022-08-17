@@ -10,10 +10,12 @@ import {
   segment18,
   segment24,
   segment32,
+  segment36,
 } from "shared/styles/font-palette";
 
 export const bodyNormalSegment24 = segment24;
 export const bodyLargeSegment32 = segment32;
+export const bodyLargeSegment36 = segment36;
 export const bodySmallSegment18 = segment18;
 export const bodyExtraSmallSegment14 = segment14;
 export const titleQuincy80 = quincy80;
